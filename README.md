@@ -1,6 +1,6 @@
 ### Hi there 👋
 #### I am Yi / Noah 👦
-#### Currently studying AI engineering at CMU 🎓
+#### I study AI at CMU 🎓
 #### I enjoy letting my imagination run wild 🌌
 #### I love developing applications that materialize my ideas! 🚀
 
