@@ -1,4 +1,8 @@
 ### Hi there 👋
+#### I am Yi / Noah 👦
+#### Currently studying AI engineering at CMU 🎓
+#### I enjoy letting my imagination run wild 🌌
+#### I love developing applications that materialize my ideas! 🚀
 
 <!--
 **InoahI/InoahI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
